@@ -1,5 +1,4 @@
 <p> Um pequeno projeto  que simula uma pokedex.</p>
-br
 Tecnologias que seram utilizadas
 
 
