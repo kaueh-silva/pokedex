@@ -2,4 +2,5 @@
 br
 Tecnologias que seram utilizadas
 <br>
-![icons8-javascript-48](https://github.com/kaueh-silva/pokedex/assets/128000044/f4e0559a-2ec6-49fb-b662-cf8b9ae0782a)
+<img src="![icons8-javascript-48](https://github.com/kaueh-silva/pokedex/assets/128000044/9e29318c-cbc5-48f1-b155-27b6d5e7be78)
+" alt="Ivysaur">
